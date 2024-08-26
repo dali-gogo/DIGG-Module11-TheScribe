@@ -8,7 +8,7 @@ The purpose of this challenge was to create an application called Note Taker to 
 
 ## Links
 - URL of the GitHub repository that contains the code: https://github.com/dali-gogo/DIGG-Module11-TheScribe
-- URL of the deployed application: 
+- URL of the deployed application: https://notetaker-nvk5.onrender.com
 
 ## User Story
 AS A small business owner
